@@ -5,3 +5,6 @@ The dashboard also features a Forecasting capability that enables the estimation
 The interface was designed with a modern, user-friendly style, providing a clear, comprehensive view that empowers decision-makers to analyze performance and improve operational and marketing planning.
 
 The dashboard was implemented using Power BI to deliver the best interactive experience and professional visual presentation of data.
+
+Live Dashboard:
+https://app.powerbi.com/view?r=eyJrIjoiMDVmZGUyMzEtMmU1ZS00MDc5LTljN2MtMTkwMDRlMWQzMDUxIiwidCI6Ijk3YTkyYjA0LTRjODctNDM0MS05YjA4LWQ4MDUxZWY4ZGNlMiIsImMiOjh9
